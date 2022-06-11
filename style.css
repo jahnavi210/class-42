@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  @font-face {
+    font-family:raceing ;
+    src: url(raceingfont.ttf);
+  }
+  @font-face {
+    font-family: fastrace;
+    src: url(Fastrace-YzXKj.ttf);
+  }
+  h1{
+    font-family: raceing;
+  }
+  button{
+    font-family: raceing;
+    font-size: 15px;
+  }
+  input{
+    font-family: fastrace;
+  }
+  
+  
+  
